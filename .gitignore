@@ -1,0 +1,7 @@
+.venv
+bot/media/*
+__pycache__
+.gitattributes
+bot/services/credentials.json
+.logs
+.db
